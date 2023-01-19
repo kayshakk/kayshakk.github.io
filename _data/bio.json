@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kaysha Kealalio",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/kayshakk.png",
+    "email": "kayshakk@hawaii.edu",
+    "phone": "808-673-1988",
+    "website": "https://kayshakk.github.io",
+    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kayshakk", "url": "http://github.com/kayshakk" },
+      { "network": "linkedin", "username": "Kaysha Kealalio", "url": "https://www.linkedin.com/in/kaysha-kealalio" }
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Pen Testing" },
+    { "name": "Ethical Hacking" },
+    { "name": "Networking" },
+    { "name": "Traveling" },
+    { "name": "Sailing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Unix", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science - Security Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-10",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,15 +44,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Center of Disability Studies at UH Manoa",
+      "position": "Tech Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-11-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist with any technical needs and work with monitoring iPads.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee the Ho'oku'i IV website.",
+        "Participating in activities that combine Hawaiian culture and STEM concepts."
       ]
     },
     {
