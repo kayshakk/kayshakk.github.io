@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/lspace.jpg
 title: "NASA L'SPACE Academy"
 date: 2022-01-07
 published: true
