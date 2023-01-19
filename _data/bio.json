@@ -18,8 +18,7 @@
     { "name": "Pen Testing" },
     { "name": "Ethical Hacking" },
     { "name": "Networking" },
-    { "name": "Cryptography" },
-    { "name": "Forensic" }
+    { "name": "Cryptography" }
   ],
   "skills": [
     {
