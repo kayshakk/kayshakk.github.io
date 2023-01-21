@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "HELLLOOOOOOOO"
+title: "NOO"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 published: true
