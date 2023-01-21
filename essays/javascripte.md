@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Javascript: Entering New Territory"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-01-20
 published: true
 labels:
   - Software Engineering
-  - Learning
+  - Javascript
+  - Computer Science
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
@@ -19,5 +20,6 @@ For the past several years, I’ve been programming in C, C++, Java, and HTML. I
 Although my career and heart is in cyber security, I started learning about the various fields in computer science. Software engineering has never piqued my interest but it is fascinating to learn about it in class and what future software engineers are going to do in their careers. Software engineers need to know most programming languages but I believe that Javascript will be very useful for them. Javascript is a user-friendly language and it goes hand-in-hand with HTML and CSS which can make a website highly dynamic. Knowing the language and being able to implement it are two different things and there are multiple practices to help you become a better coder. 
 
 Athletic software engineering is a great way to practice Javascript or any programming language in general. Athletic software engineering combines physical fitness values with programming techniques. One of these combined values is to speed code to be the first one done with the code just like an athlete trains to be the first one to finish the race. A great example of this is called Workout of the Day (WOD) which is when a Javascript coding program is given and the class only has a certain amount of time to finish the program. This gives the students a sense of urgency to finish the code before the timer goes off as well as an ego-boost if they were the first one to finish the project. It is a useful skill to have but as someone who has been coding slowly their entire life, it is such a dreadful thing to do. It is very stressful for me and I do not enjoy doing them but hopefully when the semester ends, I’ll be a bit faster than I was when I first started. 
+
 
 Even though I hate getting pushed out of my comfort zone, I will take this as an opportunity and explore this new territory. Learning Javascript is a struggle right now but with time and practice I know I’ll exceed at it, especially since Javascript and HTML go hand-in-hand. I’m not a big fan of athletic software engineering or WODs, but I know that this is meant to push my limits and give me room to grow. 
