@@ -5,7 +5,7 @@ type: essay
 title: "Javascript: Entering New Territory"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-20
-published: true
+published: false
 labels:
   - Javascript
   - Computer Science
