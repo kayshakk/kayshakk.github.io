@@ -11,7 +11,12 @@ labels:
   - Computer Science
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/js.jpg">
+
+<p align="center">
+  <img width="400" height="300" src="../img/js.jpg">
+</p>
+
+## Javascript: Entering New Territory
 
 You can never be too comfortable in computer science. Once you are about to settle into your comfort zone, everything in computer science changes. New coding languages are developed, technology and computer parts are advancing, and there is always more material you can learn. Being in computer science pushes me out of my comfort zone and forces me to enter new territory. As soon as I am comfortable with one programming language, I have to switch and learn an entirely different language. 
 
