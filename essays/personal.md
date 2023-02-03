@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Lets Get Personal"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-19
+date: 2022-06-19
 published: true
 labels:
   - Career
