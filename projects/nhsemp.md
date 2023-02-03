@@ -3,14 +3,14 @@ layout: project
 type: project
 image: img/bigisland.jpg
 title: "Native Hawaiian Science and Engineering Mentorship Program (NHSEMP)"
-date: 2021
+date: 2021-09-08
 published: true
 labels:
   - Native Hawaiian
   - STEM
   - Computer Science
-  - 
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  
+summary: "NHSEMP is a program dedicated to minority students involed in the fields of Science, Technology, Engineering, and Mathematics (STEM)."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
