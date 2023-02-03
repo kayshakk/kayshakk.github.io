@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cyber.jpg
 title: "CyberCorps: Scholarship for Service"
-date: 2022
+date: 2022-08-29
 published: true
 labels:
   - Cybersecurity
