@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/sfs.png
 title: "CyberCorps: Scholarship for Service"
 date: 2022
 published: true
