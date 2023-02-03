@@ -9,7 +9,7 @@ labels:
   - Cybersecurity
   - Government
   - UH Manoa
-summary: "Scholarship For Service (SFS) recruits and train the next generation of students going into the cyber security field."
+summary: "Scholarship For Service (SFS) provides many opprotunities and scholarships for students going into the cyber security field."
 ---
 
 
