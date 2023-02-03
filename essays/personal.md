@@ -6,8 +6,9 @@ title: "Lets Get Personal"
 date: 2023-04-19
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Career
+  - Goals
+  - Computer Science
 ---
 
 My main career goal is to eventually become a penetration tester for a triple letter agency ideally the NSA, CIA, FBI or DEA. Eventually, I hope to move up the ladder and become the Chief Information Security Officer or CISO. I am also very interested in either joining the Space Force as an officer or supporting it by working with the Space Force as a civilian. Although I am not used to the military lifestyle, I am extremely interested in supporting our government or military as a civilian.
