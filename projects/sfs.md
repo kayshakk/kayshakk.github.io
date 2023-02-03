@@ -12,7 +12,7 @@ labels:
 summary: "Scholarship For Service (SFS) recruits and train the next generation of students going into the cyber security field."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
