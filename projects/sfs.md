@@ -9,7 +9,7 @@ labels:
   - Cybersecurity
   - Government
   - UH Manoa
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "Scholarship For Service (SFS) recruits and train the next generation of students going into the cyber security field."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
