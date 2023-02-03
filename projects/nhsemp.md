@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cyber.jpg
+image: img/bigisland.jpg
 title: "Native Hawaiian Science and Engineering Mentorship Program (NHSEMP)"
 date: 2021
 published: true
