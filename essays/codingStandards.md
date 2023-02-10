@@ -16,7 +16,7 @@ labels:
   <img width="400" height="300" src="../img/esl.png">
 </p>
 
-## Programs are for humans not computers
+## Coding for Humans
 
 One of the most common phrases that computer scientists say is “write programs for people not computers”. If you make your code understandable, your future self and those who are reading your code will thank you. At the time when you are writing the program, you may know and understand what you're doing but in a couple years when you look back at it and don’t see any comments or notes it may be confusing. This is why I believe that coding standards should be implemented with every program that you create. The use of coding standards can help future you and others to clearly read and understand your program. 
 
