@@ -13,7 +13,7 @@ labels:
 
 
 <p align="center">
-  <img width="400" height="300" src="../img/js.jpg">
+  <img width="400" height="300" src="../img/esl.png">
 </p>
 
 ## Coding Standards
