@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Kaysha Kealalio",
+    "label": "Student",
+    "picture": "https://github.com/kayshakk.png",
+    "email": "kayshakk@hawaii.edu",
+    "phone": "808-673-1988",
+    "website": "https://kayshakk.github.io",
+    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kayshakk", "url": "http://github.com/kayshakk" },
+      { "network": "linkedin", "username": "Kaysha Kealalio", "url": "https://www.linkedin.com/in/kaysha-kealalio" }
+      
+    ]
+  },
+  "interests": [
+    { "name": "Pen Testing" },
+    { "name": "Ethical Hacking" },
+    { "name": "Networking" },
+    { "name": "Cryptography" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Unix", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Security Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-10",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "Center of Disability Studies at UH Manoa",
+      "position": "Tech Assistant",
+      "website": "",
+      "startDate": "2022-11-07",
+      "endDate": "Present",
+      "summary": "Assist with any technical needs and work with monitoring iPads.",
+      "highlights": [
+        "Maintain, update, and oversee the Ho'oku'i IV website.",
+        "Participating in activities that combine Hawaiian culture and STEM concepts."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CyberCorps: Scholarship for Service (SFS)",
+      "website": "https://sfs.opm.gov",
+      "position": "SFS Scholar",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "summary": "Students who are accepted into the scholarship program, recieve a yearly stipend and a government job upon graduating from college.",
+      "highlights": [
+        "Attended a cyber security job fair in DC.",
+        "Able to network with other students who are going into cyber security."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "TestOut Ethical Hacker Pro Certification",
+      "date": "2022-Present",
+      "awarder": "TestOut",
+      "summary": "This certification was awarded to me because I passed the scenario-based ethical hacking exam under the 2-hour limit."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
