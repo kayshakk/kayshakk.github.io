@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-27
+date: 2023-04-28
 published: true
 labels:
   - Standards of Coding
