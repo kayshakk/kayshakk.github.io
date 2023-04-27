@@ -4,7 +4,7 @@ type: essay
 title: "The Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
-published: true
+published: false
 labels:
   - Standards of Coding
   - ESLint
