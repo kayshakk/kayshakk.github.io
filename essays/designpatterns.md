@@ -16,11 +16,14 @@ labels:
   <img width="400" height="300" src="../img/esl.png">
 </p>
 
-## Coding for Humans
+## Creating the Blueprints
 
-One of the most common phrases that computer scientists say is “write programs for people not computers”. If you make your code understandable, your future self and those who are reading your code will thank you. At the time when you are writing the program, you may know and understand what you're doing but in a couple years when you look back at it and don’t see any comments or notes it may be confusing. This is why I believe that coding standards should be implemented with every program that you create. The use of coding standards can help future you and others to clearly read and understand your program. 
+As most programmers know, reusing code is such a great way to save time and headaches. To take this a step further, programmers should start to create their own design patterns for their code. Design patterns refer to a set of solutions that can be used repeatedly to address common issues that arise during the development of an application or system. In short, a design pattern is a programming blueprint.
 
-Programming while using a coding standard can be a pain. You have to make sure the entire code is formatted correctly, use comments to indicate what your program is doing, use appropriate names for variables, and much more but in the end it will be worth all the hard work. Coding standards are used to help keep your code understable, organized, and also safe. A good tool that I have come to like is ESLint. ESLint is a code analysis tool that helps you find exactly where the problems in your code are, more specifically how you formatted your code. While programming with ESLint, it will give you four types of symbols: a red exclamation point (error), yellow exclamation point (warning), gray exclamation point (weak warning), and a green check mark. These symbols help with finding the big and small specific problems in your program which are a big help.
+The design pattern should provide a comprehensive description of the problem it addresses, the solution it offers, the circumstances under which it can be applied, and the resulting outcomes. It should also include implementation suggestions and illustrative examples.
+
+
+
 
 ## My Experience
 
