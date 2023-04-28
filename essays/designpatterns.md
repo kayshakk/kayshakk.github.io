@@ -29,4 +29,4 @@ In
 
 ## Conclusion
 
-Overall, I believe that more programmers should start to incorporate design patterns into their projects. Using design patterns in a programming project makes it easier to manage, make the code work better, and be able to use it across multiple platforms and projects. This makes it easier to create better software applications. 
+I strongly believe that there should be an increase of developers who use design patterns. The use of design patterns makes it easier to manage, able to access it across various platforms and projects, and overall make the code work a lot better. With these aspects combined it can create better software applications and projects. 
