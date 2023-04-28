@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Design Patterns"
+title: "Blueprints for Programming"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-28
+date: 2023-04-27
 published: true
 labels:
-  - Standards of Coding
-  - ESLint
-  - Intellij
+  - Design Patterns of Coding
+  - Software Engineering
+  - Blueprints
 ---
 
 
