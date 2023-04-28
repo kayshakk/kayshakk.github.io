@@ -18,7 +18,9 @@ Most people in the tech field know that reusing code is such a great way to save
 
 There are currently 26 design patterns which can be classified into three categories: Creational, Structural, and Behavioral. Creational design patterns refer to a class of design patterns that focus on the mechanisms of object creation, with the aim of generating objects in a manner that suits the specific context. The standard process of object creation may lead to design complications or heightened intricacy, which creational design patterns seek to overcome by regulating the object creation process. Structural design patterns are about how different classes and objects can be put together to make bigger structures. They help to make the structure simpler by figuring out the relationships between different parts. Behavioral design patterns are patterns that recognize common ways of communication between objects and put them into practice which helps to make the communication more flexible.
 
-
+<p align="center">
+  <img width="400" height="300" src="../img/patterns.webp">
+</p>
 
 
 ## Implementing the Blueprints
