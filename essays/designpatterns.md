@@ -25,7 +25,7 @@ There are currently 26 design patterns which can be classified into three catego
 
 ## Implementing the Blueprints
 
-Within my own code, I have not yet used any design patterns but I would like to incorporate more with future projects. This semester was the first time that I learned about various coding standards and little tips and tricks on how to make your life easier. If I was coding a new project right now, I think I would use structural design patterns the most. When I code I like to code in a certain way and in a certain structure, especially working on a project that deals with different interfaces.
+Within my own code, I have not yet used any design patterns but I would like to incorporate more with future projects. This semester was the first time that I learned about various coding standards and little tips and tricks on how to make your life easier. If I was coding a new project right now, I think I would use structural design patterns the most. When I code I like to code in a certain way and in a certain structure, especially working on a project that deals with different interfaces. My favorite type of structual design patterns are adapter pattern and facade pattern. The adapter pattern is used to adapt to a interface according to a clients expectation. The facase pattern is used to provide an interface to a set of interfaces. These are my favorite because as I mentioned HTML and CSS are my favorite programs to work with and they involve a lot of work between the developer and the client. 
 
 ## Conclusion
 
