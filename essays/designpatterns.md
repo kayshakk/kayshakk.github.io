@@ -25,7 +25,7 @@ There are currently 26 design patterns which can be classified into three catego
 
 ## Implementing the Blueprints
 
-In
+Within my own code, I have not yet used any design patterns but I would like to incorporate more with future projects. This semester was the first time that I learned about various coding standards and little tips and tricks on how to make your life easier. If I was coding a new project right now, I think I would use structural design patterns the most. When I code I like to code in a certain way and in a certain structure, especially working on a project that deals with different interfaces.
 
 ## Conclusion
 
