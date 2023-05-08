@@ -46,7 +46,7 @@ For our final project, my group and I created a website called “Flatmate Finde
 <br>
 <p align="center">
  
-  <img width="300" height="200" src="../img/privacy.png">
+  <img width="700" height="150" src="../img/privacy.png">
   </p>
   
 Ethics in social engineering is very important. Ethics in social engineering means using the techniques and programs within social engineering in a responsible and moral way to shape how people think and behave. If your website is taking user’s personal information, you have to make sure that their information is secure and that you don’t abuse their information. Even outside of social engineering, ethics can be applied to everyday lifestyle. 
