@@ -51,6 +51,6 @@ For our final project, my group and I created a website called “Flatmate Finde
   
 Ethics in social engineering is very important. Ethics in social engineering means using the techniques and programs within social engineering in a responsible and moral way to shape how people think and behave. If your website is taking user’s personal information, you have to make sure that their information is secure and that you don’t abuse their information. Even outside of social engineering, ethics can be applied to everyday lifestyle. 
 
-## Conclusion
+## Last Thoughts
 
-I strongly believe that there should be an increase of developers who use design patterns. The use of design patterns makes it easier to manage, able to access it across various platforms and projects, and overall make the code work a lot better. With these aspects combined it can create better software applications and projects. 
+Now that the semester is coming to an end, I feel like taking this social engineering class really allowed me to grow as a person and as a computer scientist. I know the first part was hard but throughout the semester I really started to bloom and I think my teacher noticed that as well. Learning about Javascript, UI frameworks, and Ethics of social engineering allowed me to unlock new skills and fight new battles. I also learned how to use GitHub and learned about its importance in the CS world. I believe that this class was a game changer in my major and I am really happy that I had the opportunity to take this class.
