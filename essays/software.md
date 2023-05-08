@@ -1,18 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "B"
+title: "A Whole New World"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-27
+date: 2023-05-07
 published: true
 labels:
-  - Design Patterns of Coding
-  - Software Engineering
-  - Blueprints
+  - Software Engineering 
+  - Ethics in Software Engineering
+  - User Interface Frameworks
 ---
 
 
-## Creating the Blueprints
+## My Personal Experience
+
+The song "A Whole New World" just about sums up my feelings about taking my first software engineering class. The part of the song that I especially like is: 
+
+*A whole new world (every turn a surprise)
+With new horizons to pursue (every moment, red-letter)
+I'll chase them anywhere, there's time to spare
+Let me share this whole new world with you*
 
 Most people in the tech field know that reusing code is such a great way to save time and headaches. Another great headache prevention technique is to have programmers create their own design patterns. Design patterns are reusable solutions that are used to solve common issues that occur during the development of an application or system. In short, a design pattern is a programming blueprint. Design patterns should provide a simple description of the problem, the solution, how it can be applied, and the outcomes. It should also include suggestions and illustrative examples.
 
