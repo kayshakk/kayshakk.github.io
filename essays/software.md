@@ -29,17 +29,13 @@ Going down the road of HTML and CSS was very familiar to me but when we got to U
 
 
 <p align="center">
-  <Row>
-    <Col>
-  <img width="300" height="200" src="../img/react.png">
-      </Col>
-    <Col>
-  <img width="300" height="200" src="../img/meteor.png">
-    </Col>
-    <Col>
-  <img width="300" height="200" src="../img/bootstrap.png">
-    </Col>
-  </Row
+ 
+  <img width="100" height="200" src="../img/react.png">
+     
+  <img width="100" height="200" src="../img/meteor.png">
+    
+  <img width="100" height="200" src="../img/bootstrap.png">
+   
 </p>
 
 
