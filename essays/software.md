@@ -39,9 +39,17 @@ Going down the road of HTML and CSS was very familiar to me but when we got to U
 </p>
 
 <br>
-## Implementing the Blueprints
+## Ethics in Software Engineering
 
-Within my own code, I have not yet used any design patterns but I would like to incorporate more with future projects. This semester was the first time that I learned about various coding standards and little tips and tricks on how to make your life easier. If I was coding a new project right now, I think I would use structural design patterns the most. When I code I like to code in a certain way and in a certain structure, especially working on a project that deals with different interfaces. My favorite type of structual design patterns are adapter pattern and facade pattern. The adapter pattern is used to adapt to a interface according to a clients expectation. The facase pattern is used to provide an interface to a set of interfaces. These are my favorite because as I mentioned HTML and CSS are my favorite programs to work with and they involve a lot of work between the developer and the client. 
+For our final project, my group and I created a website called “Flatmate Finder”. This website was supposed to help you find your perfect roommate match based on several criteria: do they smoke/drink, gender preferred, time they wake up/go to sleep, deal breakers, and information that they should know about you. Our team knew that this was a hypothetical program but we wanted to ensure that those who used our website would know that we valued their privacy with their information so we created “Terms and Conditions” and “Privacy Policy” links. 
+
+<br>
+<p align="center">
+ 
+  <img width="300" height="200" src="../img/privacy.png">
+  </p>
+  
+Ethics in social engineering is very important. Ethics in social engineering means using the techniques and programs within social engineering in a responsible and moral way to shape how people think and behave. If your website is taking user’s personal information, you have to make sure that their information is secure and that you don’t abuse their information. Even outside of social engineering, ethics can be applied to everyday lifestyle. 
 
 ## Conclusion
 
