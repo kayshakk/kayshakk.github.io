@@ -27,10 +27,19 @@ As someone who has never had an interest in software engineering this semester r
 ## User Interface Frameworks
 Going down the road of HTML and CSS was very familiar to me but when we got to User Interface (UI) Frameworks that's when my personal growth started to flourish. UI Frameworks are similar to toolkits that software engineers use to create accessible and aesthetic software. The main UI Frameworks that we went over in class were Bootstrap, React, and Meteor. These were very to use and very easy to understand the logic behind it and I would absolutely use it in the future. Bootstrap, React, and Meteor all use HTML and CSS within their programs but they also provide an outline of how to run a project. Inside the program, there are different sections you can edit such as: HTML and CSS folders, user and system interfaces, test runs, components, layouts, and pages, public and server edits, and much more. With the way the program breaks down, you can easily apply this to another large project by breaking it down into  smaller pieces and testing each little thing.
 
+
 <p align="center">
-  <img width="600" height="500" src="../img/react.png">
-  <img width="600" height="500" src="../img/meteor.png">
-  <img width="600" height="500" src="../img/bootstrap.png">
+  <Row>
+    <Col>
+  <img width="300" height="200" src="../img/react.png">
+      </Col>
+    <Col>
+  <img width="300" height="200" src="../img/meteor.png">
+    </Col>
+    <Col>
+  <img width="300" height="200" src="../img/bootstrap.png">
+    </Col>
+  </Row
 </p>
 
 
