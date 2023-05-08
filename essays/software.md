@@ -30,11 +30,11 @@ Going down the road of HTML and CSS was very familiar to me but when we got to U
 
 <p align="center">
  
-  <img width="200" height="200" src="../img/react.png">
+  <img width="300" height="200" src="../img/react.png">
      
-  <img width="200" height="200" src="../img/meteor.png">
+  <img width="250" height="200" src="../img/meteor.png">
     
-  <img width="200" height="200" src="../img/bootstrap.png">
+  <img width="200" height="200" src="../img/bootstrap2.png">
    
 </p>
 
