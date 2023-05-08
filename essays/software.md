@@ -27,7 +27,7 @@ As someone who has never had an interest in software engineering this semester r
 ## User Interface Frameworks
 Going down the road of HTML and CSS was very familiar to me but when we got to User Interface (UI) Frameworks that's when my personal growth started to flourish. UI Frameworks are similar to toolkits that software engineers use to create accessible and aesthetic software. The main UI Frameworks that we went over in class were Bootstrap, React, and Meteor. These were very to use and very easy to understand the logic behind it and I would absolutely use it in the future. Bootstrap, React, and Meteor all use HTML and CSS within their programs but they also provide an outline of how to run a project. Inside the program, there are different sections you can edit such as: HTML and CSS folders, user and system interfaces, test runs, components, layouts, and pages, public and server edits, and much more. With the way the program breaks down, you can easily apply this to another large project by breaking it down into  smaller pieces and testing each little thing.
 
-
+<br>
 <p align="center">
  
   <img width="300" height="200" src="../img/react.png">
@@ -38,7 +38,7 @@ Going down the road of HTML and CSS was very familiar to me but when we got to U
    
 </p>
 
-
+<br>
 ## Implementing the Blueprints
 
 Within my own code, I have not yet used any design patterns but I would like to incorporate more with future projects. This semester was the first time that I learned about various coding standards and little tips and tricks on how to make your life easier. If I was coding a new project right now, I think I would use structural design patterns the most. When I code I like to code in a certain way and in a certain structure, especially working on a project that deals with different interfaces. My favorite type of structual design patterns are adapter pattern and facade pattern. The adapter pattern is used to adapt to a interface according to a clients expectation. The facase pattern is used to provide an interface to a set of interfaces. These are my favorite because as I mentioned HTML and CSS are my favorite programs to work with and they involve a lot of work between the developer and the client. 
