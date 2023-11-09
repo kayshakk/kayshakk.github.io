@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lspace.jpg
 title: "NASA L'SPACE Academy"
-date: 2022-01-07
+date: 2022
 published: true
 labels:
   - NASA 
