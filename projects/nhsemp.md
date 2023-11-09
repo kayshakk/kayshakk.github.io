@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bigisland.jpg
 title: "Native Hawaiian Science and Engineering Mentorship Program (NHSEMP)"
-date: 2021-09-08
+date: 2021
 published: true
 labels:
   - Native Hawaiian
@@ -13,16 +13,7 @@ labels:
 summary: "NHSEMP is a program dedicated to minority students involed in the fields of Science, Technology, Engineering, and Mathematics (STEM)."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+The Native Hawaiian Science & Engineering Mentorship Program is a initiative dedicated to fostering the academic and professional development of Native Hawaiian students in the fields of science and engineering. This program offers invaluable mentorship and support, creating a strong foundation for students to pursue their passion for STEM disciplines. By connecting these students with experienced mentors, providing hands-on learning opportunities, and facilitating access to resources, the program helps bridge the gap in STEM representation and addresses the unique needs and perspectives of the Native Hawaiian community.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Among the NHSEMP's engaging events, one of my most cherished experiences was participating in STEM nights. During these events, we had the opportunity to instruct children ranging from Kindergarten to High School in crafting STEM projects, all while seamlessly integrating elements of Native Hawaiian culture into the learning process.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
