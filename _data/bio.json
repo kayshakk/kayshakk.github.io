@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Kaysha Kealalio",
+    "label": "Student",
+    "picture": "https://github.com/kayshakk.png",
+    "email": "kayshakk@hawaii.edu",
+    "phone": "808-673-1988",
+    "website": "https://kayshakk.github.io",
+    "summary": "I am pursuing a Bachelor of Science degree in Computer Science-Security Science within the Department of Information and Computer Sciences at the University of Hawaii. My anticipated graduation date is in the Spring of 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kayshakk", "url": "http://github.com/kayshakk" },
+      { "network": "linkedin", "username": "Kaysha Kealalio", "url": "https://www.linkedin.com/in/kaysha-kealalio" }
+      
+    ]
+  },
+  "interests": [
+    { "name": "Pen Testing" },
+    { "name": "Ethical Hacking" },
+    { "name": "Networking" },
+    { "name": "Cryptography" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Unix", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Security Science",
+      "studyType": "B.S.",
+      "startDate": "2020-08-10",
+      "endDate": "2024-05-11"
+    }
+  ],
+  "work": [
+    {
+      "company": "Intech Hawaii",
+      "position": "Systems Administrator",
+      "website": "https://www.intech-hawaii.com/",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Provide technical diagnostic, triage, and advisement on cross-platform support issues.",
+      "highlights": [
+        "Assist in the provisioning and troubleshooting of ITS supported computing for UH affiliates.",
+        "Provide technical advisement and support in the areas of hardware, software, networks, and cybersecurity tools."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "UHM CyberCorps Scholarship for Service",
+      "website": "https://sfs.opm.gov",
+      "position": "SFS Scholar",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "summary": "Demonstrated commitment to public service by pledging to serve in a government agency or cybersecurity-related organization following the completion of studies.",
+      "highlights": [
+        "Engaged in specialized coursework, seminars, workshops, and hands-on experiences curated to augment proficiency in cybersecurity concepts, tools, and practices.",
+        "Participate in an annual job fair held in January to broaden network connections with individuals in the cybersecurity field and potential employers."
+      ]
+    },
+    {
+      "organization": "NASA Lucy Student Pipeline Accelerator and Competency Enabler (L’SPACE) Academy",
+      "website": "https://www.lspace.asu.edu/",
+      "position": "Project Manager",
+      "startDate": "2022-01-15",
+      "endDate": "2022-06-30",
+      "summary": "Facilitated the development of a comprehensive preliminary design report in collaboration with interdisciplinary teams specializing in science, engineering, and business for a space mission.",
+      "highlights": [
+        "Oversaw and served as the project manager for a team of 13 college students located in various locations across the United States.",
+        "For 12-weeks, the academy offered distinctive and practical education into the ever-evolving realm of the space industry."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "TestOut Ethical Hacker Pro Certification",
+      "date": "2022",
+      "awarder": "TestOut",
+      "summary": "I earned this certification by successfully completing the scenario-based ethical hacking exam within the 2-hour timeframe."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
