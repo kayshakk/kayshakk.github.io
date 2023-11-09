@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Unix", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Windows", "Unix", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
